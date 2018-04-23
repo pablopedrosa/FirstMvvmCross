@@ -284,17 +284,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -307,10 +307,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -321,7 +321,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -2423,17 +2423,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -2446,10 +2446,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -2460,7 +2460,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -4723,17 +4723,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -4746,10 +4746,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -4760,7 +4760,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -7060,17 +7060,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -7083,10 +7083,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -7097,7 +7097,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -9369,17 +9369,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -9392,10 +9392,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -9406,7 +9406,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -11712,17 +11712,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -11735,10 +11735,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -11749,7 +11749,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -14021,17 +14021,17 @@
           "ref/netstandard1.3/Microsoft.Win32.Primitives.dll": {}
         }
       },
-      "MvvmCross/5.0.6": {
+      "MvvmCross/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Binding": "[5.0.6]",
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Binding": "[5.6.2]",
+          "MvvmCross.Core": "[5.6.2]"
         }
       },
-      "MvvmCross.Binding/5.0.6": {
+      "MvvmCross.Binding/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Core": "[5.0.6]"
+          "MvvmCross.Core": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Binding.Uwp.dll": {},
@@ -14044,10 +14044,10 @@
           "lib/uap10.0/MvvmCross.Localization.dll": {}
         }
       },
-      "MvvmCross.Core/5.0.6": {
+      "MvvmCross.Core/5.6.2": {
         "type": "package",
         "dependencies": {
-          "MvvmCross.Platform": "[5.0.6]"
+          "MvvmCross.Platform": "[5.6.2]"
         },
         "compile": {
           "lib/uap10.0/MvvmCross.Core.dll": {},
@@ -14058,7 +14058,7 @@
           "lib/uap10.0/MvvmCross.Uwp.dll": {}
         }
       },
-      "MvvmCross.Platform/5.0.6": {
+      "MvvmCross.Platform/5.6.2": {
         "type": "package",
         "compile": {
           "lib/uap10.0/MvvmCross.Platform.Uwp.dll": {},
@@ -16434,19 +16434,19 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "MvvmCross/5.0.6": {
-      "sha512": "Fw1OyW+//QAogfKO03AVDHiLPxmT0sWdiNf1U5POdRFRpIvfWBC5cqZzaRVJ4kk6A/prSdk9Lb5MnEY52KF5Aw==",
+    "MvvmCross/5.6.2": {
+      "sha512": "0GPt358Eu/5Hs7piBM7VQcj7Vfk6et6q935r0uX6Tmh+Y2KlDY3vCJtV3oz/Lrph66MYv2CEWivYOI/lc0QDRg==",
       "type": "package",
-      "path": "mvvmcross/5.0.6",
+      "path": "mvvmcross/5.6.2",
       "files": [
-        "mvvmcross.5.0.6.nupkg.sha512",
+        "mvvmcross.5.6.2.nupkg.sha512",
         "mvvmcross.nuspec"
       ]
     },
-    "MvvmCross.Binding/5.0.6": {
-      "sha512": "r4oubWLLumb5dkKMVORv/VYepuxpf72citGWh53R1p4mzuypCkcpOEggwrP11caSxf72Ay7kuOiE2Zvls0wcow==",
+    "MvvmCross.Binding/5.6.2": {
+      "sha512": "bqysMGHkBPliFGj37mPa9ce+iFCA1fysgb/HyV6aMlehcP10kgHXs3/3HFPdDr5pyauntWyQ+onPmMq4GmFr+w==",
       "type": "package",
-      "path": "mvvmcross.binding/5.0.6",
+      "path": "mvvmcross.binding/5.6.2",
       "files": [
         "lib/MonoAndroid/MvvmCross.Binding.Droid.dll",
         "lib/MonoAndroid/MvvmCross.Binding.Droid.pdb",
@@ -16510,14 +16510,14 @@
         "lib/uap10.0/MvvmCross.Localization.dll",
         "lib/uap10.0/MvvmCross.Localization.pdb",
         "lib/uap10.0/MvvmCross.Localization.pdb.srcsrv",
-        "mvvmcross.binding.5.0.6.nupkg.sha512",
+        "mvvmcross.binding.5.6.2.nupkg.sha512",
         "mvvmcross.binding.nuspec"
       ]
     },
-    "MvvmCross.Core/5.0.6": {
-      "sha512": "1fhuX948qk/SA6AnU75fdwslkzBwxXXc+A7rjYsMKrKURbRt/uyVUb+vbGFkBkg/NvdC2nmKk9ByPTFmklZ+IA==",
+    "MvvmCross.Core/5.6.2": {
+      "sha512": "h8YpsswCRpHcGH7iOOnSQzIscw2BqkI4Cq9tyd4oO/G0iEw37F0GAgMMPXoHP5+dKXKjVUzxNeSsLicrwrFqoA==",
       "type": "package",
-      "path": "mvvmcross.core/5.0.6",
+      "path": "mvvmcross.core/5.6.2",
       "files": [
         "lib/MonoAndroid/MvvmCross.Core.dll",
         "lib/MonoAndroid/MvvmCross.Core.pdb",
@@ -16549,14 +16549,14 @@
         "lib/uap10.0/MvvmCross.Uwp.dll",
         "lib/uap10.0/MvvmCross.Uwp.pdb",
         "lib/uap10.0/MvvmCross.Uwp.pri",
-        "mvvmcross.core.5.0.6.nupkg.sha512",
+        "mvvmcross.core.5.6.2.nupkg.sha512",
         "mvvmcross.core.nuspec"
       ]
     },
-    "MvvmCross.Platform/5.0.6": {
-      "sha512": "1H5Eb/4GPfsepJ+p40P4ebsS4L95L5mRhkImmJH4SMzZuNufP45jCTAiCJ6lmUgcDiEEV9qq/PDKf/NjTLPwmw==",
+    "MvvmCross.Platform/5.6.2": {
+      "sha512": "0APoryCc4Z6ApxQqU1rwwLS/jtQw4vdxTRVgmB2t3JnMWowTVYBZ+kpEPN8rIxuvvzStBjZ7FTUquDtRBtETWQ==",
       "type": "package",
-      "path": "mvvmcross.platform/5.0.6",
+      "path": "mvvmcross.platform/5.6.2",
       "files": [
         "lib/MonoAndroid/MvvmCross.Platform.Droid.dll",
         "lib/MonoAndroid/MvvmCross.Platform.Droid.pdb",
@@ -16596,7 +16596,7 @@
         "lib/uap10.0/MvvmCross.Platform.dll",
         "lib/uap10.0/MvvmCross.Platform.pdb",
         "lib/uap10.0/MvvmCross.Platform.pdb.srcsrv",
-        "mvvmcross.platform.5.0.6.nupkg.sha512",
+        "mvvmcross.platform.5.6.2.nupkg.sha512",
         "mvvmcross.platform.nuspec"
       ]
     },
@@ -22473,7 +22473,7 @@
   "projectFileDependencyGroups": {
     "": [
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.2.2",
-      "MvvmCross >= 5.0.6"
+      "MvvmCross >= 5.6.2"
     ],
     "UAP,Version=v10.0.10586": []
   },
@@ -22509,7 +22509,7 @@
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "MvvmCross": "5.0.6"
+      "MvvmCross": "5.6.2"
     },
     "frameworks": {
       "uap10.0.10586": {}
