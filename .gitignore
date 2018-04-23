@@ -1,0 +1,7 @@
+.vs/
+FirstMvvmCross/FirstMvvmCross.Core/bin/
+FirstMvvmCross/FirstMvvmCross.Core/obj/
+FirstMvvmCross/FirstMvvmCross.Droid/bin/
+FirstMvvmCross/FirstMvvmCross.Droid/obj/
+FirstMvvmCross/FirstMvvmCross.UWP/obj/
+packages/
